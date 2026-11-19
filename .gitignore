@@ -1,0 +1,14 @@
+# Allow only individually reviewed portfolio files.
+/*
+!/.gitignore
+!/README.md
+!/screenshots/
+/screenshots/*
+!/screenshots/cisco-config-generator.png
+!/screenshots/dashboard.png
+!/screenshots/ipam.png
+!/screenshots/logs-reports.png
+!/screenshots/monitoring.png
+!/screenshots/network-devices.png
+!/screenshots/troubleshooting.png
+!/screenshots/vlan-management.png
